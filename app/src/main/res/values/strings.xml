@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookingWarnetSR</string>
+    <string-array name="pc_array">
+        <item>Pc1</item>
+        <item>Pc2</item>
+        <item>Pc3</item>
+        <item>Pc4</item>
+        <item>Pc5</item>
+        <item>Pc6</item>
+        <item>Pc7</item>
+        <item>Pc8</item>
+        <item>Pc9</item>
+        <item>Pc10</item>
+    </string-array>
+</resources>
